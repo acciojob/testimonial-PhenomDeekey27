@@ -1,1 +1,35 @@
 /*  your css code here. If applicable */
+body
+{
+    background-color: #f5f5f5;
+}
+.quote-1
+{
+    background-color: white;
+    border: 1px solid #e7d3d3;
+    display: flex;
+    padding: 6px 12px;
+    column-gap: 682px;
+}
+
+
+.aut-1
+{
+    padding-top: 18px;
+
+}
+.quote-2
+{
+    background-color: white;
+    border: 1px solid #e7d3d3;
+    display: flex;
+    padding: 12px 16px 0px;
+    column-gap: 682px;
+
+}
+.aut-2
+{
+    padding-top: 18px;
+
+
+}
